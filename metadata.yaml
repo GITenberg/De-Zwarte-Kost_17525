@@ -17,6 +17,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17525#De-Zwarte-Kost
 gutenberg_issued: '2006-01-23'
 gutenberg_type: Text
 identifiers:
